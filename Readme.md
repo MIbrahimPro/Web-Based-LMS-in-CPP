@@ -10,38 +10,32 @@ A complete Learning Management System built with **pure C++** using Object-Orien
 
 ## Screenshots
 
-*Please add the following screenshots to the `/screenshots/` folder.*
-
-*   **login.png**: A screenshot of the login page showing the role selection for Admin, Teacher, and Student.
-*   **admin_dashboard.png**: A screenshot of the main Admin Dashboard, showing the forms for creating users/courses and the tables of existing data.
-*   **teacher_dashboard.png**: A screenshot of a Teacher's dashboard, displaying their assigned courses.
-*   **attendance.png**: A screenshot of the attendance marking page a teacher sees after clicking on a course, with the list of students and checkboxes.
-*   **student_dashboard.png**: A screenshot of a Student's dashboard, showing their course list and attendance percentages.
-*   **seeder.png**: A screenshot of the `/admin/seed` page where the admin can confirm the data seeding operation.
-
 ### Login Page
-![Login Page](/screenshots/login.png)****
+![Login Page](./screenshots/login.png)
 *Login interface with role selection (Admin/Teacher/Student)*
 
 ### Admin Dashboard
-![Admin Dashboard](/screenshots/admin_dashboard.png)
+![Admin Dashboard](./screenshots/adminDashboard.png)
 *Admin can create users, courses, and manage enrollments*
 
+### Seed Demo Data
+![Seeder](./screenshots/seeder.png)
+*Admin can populate database with demo data*
+
 ### Teacher Dashboard
-![Teacher Dashboard](/screenshots/teacher_dashboard.png)
+![Teacher Dashboard](./screenshots/teacherDashboard.png)
 *Teachers can view their courses and mark attendance*
 
 ### Attendance Marking
-![Attendance](/screenshots/attendance.png)
+![Attendance](./screenshots/Attendance.png)
 *Checkbox-based attendance marking system*
 
-### Student Dashboard
-![Student Dashboard](/screenshots/student_dashboard.png)
-*Students can view their attendance statistics per course*
+![Marked Attendance](./screenshots/Marked.png)
+*Attendance successfully marked*
 
-### Seed Demo Data
-![Seeder](/screenshots/seeder.png)
-*Admin can populate database with demo data*
+### Student Dashboard
+![Student Dashboard](./screenshots/Student.png)
+*Students can view their attendance statistics per course*
 
 ---
 
